@@ -1,0 +1,9 @@
+{
+    "api_key": "YOUR_API_KEY",
+    "api_secret": "YOUR_API_SECRET",
+    "symbol": "BTCUSDT",
+    "order_size": 0.001,
+    "trade_frequency_seconds": 60,
+    "buy_threshold": 1.01,
+    "sell_threshold": 0.99
+}
